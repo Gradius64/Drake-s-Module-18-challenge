@@ -1,0 +1,3 @@
+The function of the Module 18 challenge is to create a BookWebAPI for finding a booksearch online, and refactor it to be a GraphQL API built with Apollo Server. 
+
+- app was built using the MERN stack with a React front end
